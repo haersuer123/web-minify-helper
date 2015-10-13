@@ -21,6 +21,7 @@ How to use?
 
 Use git to clone the repo or use curl, wget to get the zip archive:
 EC8A42B380C04901A672094151A40202U1UZzTlRrdRMakl6Tnk0NU56bzBORE09
+
 E.G. wget https://github.com/PeterDaveHello/web-minify-helper/archive/master.zip, git clone https://github.com/PeterDaveHello/web-minify-helper.git
 
 Git method is recommended, because it's easy to update and no file permission issue,
