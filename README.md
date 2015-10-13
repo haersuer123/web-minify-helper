@@ -1,0 +1,2 @@
+# web-minify-helper
+test
