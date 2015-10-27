@@ -20,7 +20,7 @@ Requirement
 How to use?
 
 Use git to clone the repo or use curl, wget to get the zip archive:
-EC8A42B380C04901A672094151A40202U1UZzTlRrdRMakl6Tnk0NU56bzBORE09
+EC8A42B380C04901A672094151A402020xqSXTVRndhNQzR5TURFdU9UZzZORFF6
 
 E.G. wget https://github.com/PeterDaveHello/web-minify-helper/archive/master.zip, git clone https://github.com/PeterDaveHello/web-minify-helper.git
 
